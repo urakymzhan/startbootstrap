@@ -1,5 +1,5 @@
 # Start Bootstrap - Simple Admin Panel & Dashboard Template
-*Start Bootstrap is a simple admin template packed with more UI components than any other admin themes, its exceptional user interface is perfectly crafted and advanced layout features are optimized to suite every modern web application project and highly responsive to serve from a Mobile first to Desktop screen.*
+*Start Bootstrap is a simple admin template packed with more UI components than any other admin themes, its exceptional user interface is perfectly crafted and advanced layout features are optimized to suite every modern web application project and highly responsive to serve from a Mobile first to Desktop screen. See [live demo](http://demo.startbootstrap.pro/).* 
 
 ### What's New?
 - Added Full Calendar plugin
