@@ -29,7 +29,7 @@
 - Settings page and more to come…
 
 
-Start Bootstrap is a simple admin panel and dashboard template based on HTML5, designed for backend application, web & mobile application, SaaS application, website backend, and e-commerce admin portal. With 5+ years working on Web applications we are confident to bring to you the best admin template for your web application with optimized UI/UX on mobile and on the search engine.
+Start Bootstrap is a simple admin panel and dashboard template based on HTML5, designed for backend application, web & mobile application, SaaS application, website backend, and e-commerce admin portal. With 5+ years working on Web applications we are confident to give you the best admin template for your web application with optimized UI/UX on mobile and on the search engine.
 
 
 ## License
