@@ -10,7 +10,7 @@
 - New change user permissions page
 - New settings page
 
-![New features](https://raw.githubusercontent.com/brianluna/startbootstrap-documentation/master/assets/images/start-bootstrap-item-highlights.png)
+![Start Bootstrap - Highlights](https://i.postimg.cc/5t7nVMxb/highlights.png)
 
 ### Layout features
 - Header topbar navigation
