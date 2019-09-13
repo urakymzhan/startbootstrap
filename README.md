@@ -26,3 +26,11 @@
 
 
 Start Bootstrap is a simple admin panel and dashboard template based on HTML5, designed for backend application, web application, SaaS application, website backend, and Admin portal. With 5+ years working on Web applications we are confident to bring to you the best product for your web application with optimized UI/UX on mobile and on the search engine.
+
+
+## License
+
+Start Bootstrap is open-source software licensed under the [Apache license 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+Copyright (c) 2019-present, Brian Luna
+
